@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ts\\New folder (4)\\AjaxRequest\\AJAXRequest\\AJAXRequest\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\ts\\New folder (4)\\AjaxRequest\\AJAXRequest\\AJAXRequest\\wwwroot\\main.2feb665c4442abaf2e77.js",
+      "PackagePath": "staticwebassets\\main.2feb665c4442abaf2e77.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AJAXRequest.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AJAXRequest.props",
+      "PackagePath": "build\\AJAXRequest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AJAXRequest.props",
+      "PackagePath": "buildMultiTargeting\\AJAXRequest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AJAXRequest.props",
+      "PackagePath": "buildTransitive\\AJAXRequest.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

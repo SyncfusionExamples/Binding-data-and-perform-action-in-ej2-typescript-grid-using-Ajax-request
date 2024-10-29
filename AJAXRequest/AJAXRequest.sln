@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AJAXRequest", "AJAXRequest\AJAXRequest.csproj", "{81670BF8-D05A-4D08-AED5-13FFBE6D32F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81670BF8-D05A-4D08-AED5-13FFBE6D32F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81670BF8-D05A-4D08-AED5-13FFBE6D32F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81670BF8-D05A-4D08-AED5-13FFBE6D32F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81670BF8-D05A-4D08-AED5-13FFBE6D32F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1047CDA-AAF6-4A61-845C-1B4EDEB2110E}
+	EndGlobalSection
+EndGlobal

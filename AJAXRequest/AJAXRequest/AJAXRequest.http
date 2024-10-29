@@ -1,0 +1,6 @@
+@ajax_HostAddress = http://localhost:5278
+
+GET {{ajax_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

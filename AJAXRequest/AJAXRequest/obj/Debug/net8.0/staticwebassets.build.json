@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "u/iQmt0zOEnbGNl9ZLFdSWj2+RgW1DurHYuTEVk8z8U=",
+  "Source": "AJAXRequest",
+  "BasePath": "_content/AJAXRequest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AJAXRequest\\wwwroot",
+      "Source": "AJAXRequest",
+      "ContentRoot": "D:\\ts\\New folder (4)\\AjaxRequest\\AJAXRequest\\AJAXRequest\\wwwroot\\",
+      "BasePath": "_content/AJAXRequest",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\ts\\New folder (4)\\AjaxRequest\\AJAXRequest\\AJAXRequest\\wwwroot\\index.html",
+      "SourceId": "AJAXRequest",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ts\\New folder (4)\\AjaxRequest\\AJAXRequest\\AJAXRequest\\wwwroot\\",
+      "BasePath": "_content/AJAXRequest",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\ts\\New folder (4)\\AjaxRequest\\AJAXRequest\\AJAXRequest\\wwwroot\\main.2feb665c4442abaf2e77.js",
+      "SourceId": "AJAXRequest",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ts\\New folder (4)\\AjaxRequest\\AJAXRequest\\AJAXRequest\\wwwroot\\",
+      "BasePath": "_content/AJAXRequest",
+      "RelativePath": "main.2feb665c4442abaf2e77.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.2feb665c4442abaf2e77.js"
+    }
+  ]
+}
