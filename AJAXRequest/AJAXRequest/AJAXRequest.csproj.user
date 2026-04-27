@@ -3,9 +3,5 @@
   <PropertyGroup>
     <ActiveDebugProfile>https</ActiveDebugProfile>
   </PropertyGroup>
-  <ItemGroup>
-    <TypeScriptCompile Update="src\index.ts">
-      <SubType>Code</SubType>
-    </TypeScriptCompile>
-  </ItemGroup>
+  <ItemGroup />
 </Project>
